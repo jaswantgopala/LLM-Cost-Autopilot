@@ -1,0 +1,211 @@
+prompt,tier
+Summarize the findings from this report: [a quarterly earnings report excerpt],2
+Identify the target audience described in this document: [a customer feedback transcript],2
+"Summarize this customer review in one sentence: Terrible service, will not return.",2
+What is the boiling point of water in Celsius?,1
+Outline a lesson plan for teaching remote work culture.,2
+"Summarize the pros and cons mentioned in this review: Terrible service, will not return.",2
+Convert 15 miles to kilometers.,1
+Summarize the key differences between remote work and in-office work.,2
+Outline a lesson plan for teaching universal basic income.,2
+Write a short story about universal basic income.,3
+Compare and critique the strategic decisions made in a fast-growing e-commerce business.,3
+Synthesize insights from these conflicting reports and recommend a course of action: [a customer feedback transcript],3
+Summarize this article in 3 bullet points: [a 500-word passage about renewable energy trends],2
+"Structure this unorganized data into a table: task A, task B, task C, task D",2
+Extract the email address from: 'Contact us at sales@shop.com',1
+"Given these constraints, design an optimal solution for declining team morale: [a 500-word passage about renewable energy trends]",3
+Convert 42 miles to kilometers.,1
+Extract the phone number from: 'Call me at 555-123-4567',1
+Debate the ethical implications of remote work culture.,3
+What is the chemical symbol for gold?,1
+List the days of the week.,1
+"Identify the sentiment of this tweet: 'Worst update ever, so many bugs.'",2
+"Explain the trade-off between speed and accuracy in a Series A startup, with recommendations.",3
+"Organize this list of tasks by priority: task A, task B, task C, task D",2
+Write a short story about remote work culture.,3
+Critique this business plan and suggest improvements: [a customer feedback transcript],3
+"Analyze the trade-offs between microservices and NoSQL databases, and recommend an approach for a Fortune 500 company.",3
+Convert 100 miles to kilometers.,1
+What is the capital of France?,1
+What is the chemical symbol for iron?,1
+"Given these constraints, design an optimal solution for scaling infrastructure costs: [a customer feedback transcript]",3
+Judge which of these two arguments is more compelling and explain why: [a customer feedback transcript],3
+Compare and critique the strategic decisions made in a two-person team.,3
+Compare and critique the strategic decisions made in a Series A startup.,3
+Outline the steps to set up a CI/CD pipeline.,2
+Write a persuasive essay on why AI in education matters.,3
+Translate 'thank you' to Spanish.,1
+"Explain the trade-off between speed and accuracy in a Fortune 500 company, with recommendations.",3
+What is the capital of Canada?,1
+Extract the email address from: 'Contact us at john@example.com',1
+Extract the price from: 'The item costs $120.00.',1
+Convert 7 degrees Fahrenheit to Celsius.,1
+Extract the name from: 'My name is Sarah and I live in Tokyo.',1
+What is the opposite of 'happy'?,1
+"Categorize these customer complaints by department: task A, task B, task C, task D",2
+"Write a nuanced comparison of remote work vs NoSQL databases for a technical audience, weighing trade-offs.",3
+Extract the name from: 'My name is Mike and I live in New York.',1
+Rewrite this sentence in passive voice: 'The cat chased the mouse.',1
+Extract and structure the key facts from this passage: [a 500-word passage about renewable energy trends],2
+"Argue for or against AI in education, considering multiple perspectives.",3
+What is quick spelled backwards?,1
+Convert 7 miles to kilometers.,1
+"Classify these support tickets by category: laptop, banana, t-shirt, headphones, jacket",2
+Debate the ethical implications of AI in education.,3
+Critique this business plan and suggest improvements: [a 500-word passage about renewable energy trends],3
+"Analyze the trade-offs between remote work and in-office work, and recommend an approach for a Fortune 500 company.",3
+Reason through the root cause of high customer churn step by step.,3
+Analyze why the French Revolution happened and what could have prevented it.,3
+"Argue for or against climate change policy, considering multiple perspectives.",3
+Outline the main sections needed for a product requirements doc.,2
+What color do you get when you mix blue and yellow?,1
+"Format this date as MM/DD/YYYY: December 1, 2023",1
+Define the word 'large'.,1
+Extract the email address from: 'Contact us at info@company.com',1
+Evaluate the long-term risks of a fast-growing e-commerce business and justify your reasoning.,3
+"Summarize the pros and cons mentioned in this review: This product exceeded my expectations, highly recommend!",2
+Give me a synonym for 'quick'.,1
+Extract the phone number from: 'Call me at 212-555-0199',1
+Identify the target audience described in this document: [a 500-word passage about renewable energy trends],2
+"Explain the trade-off between speed and accuracy in a two-person team, with recommendations.",3
+Extract and categorize the key requirements from this brief: [a 500-word passage about renewable energy trends],2
+Outline the main sections needed for a technical design document.,2
+Convert 42 degrees Fahrenheit to Celsius.,1
+"Identify which of these items are food vs electronics: task A, task B, task C, task D",2
+"Identify which of these items are food vs electronics: laptop, banana, t-shirt, headphones, jacket",2
+Convert 15 degrees Fahrenheit to Celsius.,1
+List 3 planets in the solar system.,1
+What time zone is London in?,1
+"Design a system architecture for onboard a new employee, considering scalability and cost.",3
+Summarize the main argument of this passage: [a customer feedback transcript],2
+"Recommend a hiring strategy for a startup facing high customer churn, and justify each choice.",3
+What is 7 + 8?,1
+Analyze why World War II happened and what could have prevented it.,3
+"Given these constraints, design an optimal solution for declining team morale: [a customer feedback transcript]",3
+Summarize this meeting transcript into action items: [a 500-word passage about renewable energy trends],2
+Define the word 'quick'.,1
+"Explain the trade-off between speed and accuracy in a fast-growing e-commerce business, with recommendations.",3
+"Format this date as MM/DD/YYYY: March 5, 2024",1
+Debate the ethical implications of climate change policy.,3
+Classify this review as positive or negative: 'Decent but overpriced for what you get.',2
+Summarize this research abstract in plain language: [a 500-word passage about renewable energy trends],2
+Outline a project plan for onboard a new employee.,2
+Evaluate the long-term risks of a Series A startup and justify your reasoning.,3
+Translate 'good morning' to Spanish.,1
+Summarize this article in 3 bullet points: [a quarterly earnings report excerpt],2
+"Strategize a go-to-market plan for set up a CI/CD pipeline, accounting for competitive risk.",3
+Compare and critique the strategic decisions made in a Fortune 500 company.,3
+Extract the price from: 'The item costs $49.99.',1
+Give me a synonym for 'run'.,1
+"Analyze the trade-offs between SQL databases and in-office work, and recommend an approach for a two-person team.",3
+Evaluate the long-term risks of a two-person team and justify your reasoning.,3
+What time zone is Mumbai in?,1
+"Write a nuanced comparison of microservices vs in-office work for a technical audience, weighing trade-offs.",3
+"Given these constraints, design an optimal solution for declining team morale: [a quarterly earnings report excerpt]",3
+Analyze why the moon landing happened and what could have prevented it.,3
+"Classify the tone of this message as formal or informal: 'Worst update ever, so many bugs.'",2
+What is 100 + 8?,1
+Write a short story about AI in education.,3
+Outline a lesson plan for teaching climate change policy.,2
+Design an experiment to test whether shorter onboarding improves retention.,3
+Brainstorm 5 creative solutions to high customer churn.,3
+Write a persuasive essay on why climate change policy matters.,3
+"Given these constraints, design an optimal solution for scaling infrastructure costs: [a quarterly earnings report excerpt]",3
+Give me a synonym for 'happy'.,1
+What is the plural of 'happy'?,1
+Summarize this meeting transcript into action items: [a customer feedback transcript],2
+Write a persuasive essay on why remote work culture matters.,3
+What is the square root of 7?,1
+What is the capital of India?,1
+Identify the target audience described in this document: [a quarterly earnings report excerpt],2
+"Classify the tone of this message as formal or informal: 'This new update is amazing, love it!'",2
+Brainstorm 5 creative solutions to scaling infrastructure costs.,3
+Design an experiment to test whether remote teams are less productive.,3
+Summarize the key differences between remote work and NoSQL databases.,2
+List 3 types of clouds.,1
+Extract the name from: 'My name is Sarah and I live in New York.',1
+What year did the moon landing happen?,1
+Translate 'see you later' to Spanish.,1
+Brainstorm 5 creative solutions to declining team morale.,3
+What is the plural of 'quick'?,1
+List 3 benefits of exercise.,1
+Outline a project plan for launch a product beta.,2
+Outline the steps to onboard a new employee.,2
+Outline the steps to launch a product beta.,2
+Summarize the pros and cons mentioned in this review: Decent but overpriced for what you get.,2
+What year did World War II happen?,1
+"Classify this email as spam or not spam: 'Congratulations! You've won a free prize, click here now!'",2
+"Write a nuanced comparison of SQL databases vs NoSQL databases for a technical audience, weighing trade-offs.",3
+Convert 100 degrees Fahrenheit to Celsius.,1
+Summarize this research abstract in plain language: [a quarterly earnings report excerpt],2
+What is run spelled backwards?,1
+Summarize the findings from this report: [a customer feedback transcript],2
+"Strategize a go-to-market plan for onboard a new employee, accounting for competitive risk.",3
+Synthesize insights from these conflicting reports and recommend a course of action: [a quarterly earnings report excerpt],3
+"Categorize these customer complaints by department: laptop, banana, t-shirt, headphones, jacket",2
+What time zone is Tokyo in?,1
+Give me a synonym for 'large'.,1
+Identify the main themes in this paragraph: [a 500-word passage about renewable energy trends],2
+What time zone is New York in?,1
+What is 7 + 9?,1
+"Analyze the trade-offs between SQL databases and NoSQL databases, and recommend an approach for a Fortune 500 company.",3
+"Classify this review as positive or negative: 'Terrible service, will not return.'",2
+Identify the key stakeholders mentioned in this document: [a 500-word passage about renewable energy trends],2
+Reason through the root cause of declining team morale step by step.,3
+Judge which of these two arguments is more compelling and explain why: [a quarterly earnings report excerpt],3
+"Categorize these items into food, electronics, or clothing: task A, task B, task C, task D",2
+"Recommend a hiring strategy for a startup facing declining team morale, and justify each choice.",3
+What is the opposite of 'large'?,1
+"Identify the sentiment of this tweet: 'This new update is amazing, love it!'",2
+Structure this raw meeting notes into a clean summary: [a customer feedback transcript],2
+What is the opposite of 'run'?,1
+Classify this code snippet by programming paradigm.,2
+What year did the French Revolution happen?,1
+How many continents are there?,1
+Classify this support ticket by urgency level: 'Minor UI glitch on settings page',2
+What is happy spelled backwards?,1
+What is the square root of 42?,1
+"Design a system architecture for launch a product beta, considering scalability and cost.",3
+Summarize the key differences between remote work and monoliths.,2
+"Argue for or against remote work culture, considering multiple perspectives.",3
+"Classify this review as positive or negative: 'This product exceeded my expectations, highly recommend!'",2
+What is the square root of 15?,1
+Structure this raw meeting notes into a clean summary: [a quarterly earnings report excerpt],2
+"Strategize a go-to-market plan for launch a product beta, accounting for competitive risk.",3
+Summarize the key differences between SQL databases and in-office work.,2
+What is the opposite of 'quick'?,1
+What is 15 + 9?,1
+"Classify these support tickets by category: task A, task B, task C, task D",2
+Reason through the root cause of scaling infrastructure costs step by step.,3
+Write a persuasive essay on why universal basic income matters.,3
+"Analyze the trade-offs between SQL databases and NoSQL databases, and recommend an approach for a Series A startup.",3
+"Design a system architecture for set up a CI/CD pipeline, considering scalability and cost.",3
+Extract and categorize the key requirements from this brief: [a customer feedback transcript],2
+"Argue for or against universal basic income, considering multiple perspectives.",3
+Outline a project plan for set up a CI/CD pipeline.,2
+Summarize this research abstract in plain language: [a customer feedback transcript],2
+Define the word 'happy'.,1
+Summarize the findings from this report: [a 500-word passage about renewable energy trends],2
+What is the capital of Egypt?,1
+Extract and categorize the key requirements from this brief: [a quarterly earnings report excerpt],2
+Critique this business plan and suggest improvements: [a quarterly earnings report excerpt],3
+What is the square root of 100?,1
+Judge which of these two arguments is more compelling and explain why: [a 500-word passage about renewable energy trends],3
+List 3 programming languages.,1
+"Summarize this customer review in one sentence: This product exceeded my expectations, highly recommend!",2
+Classify this support ticket by urgency level: 'My account was charged twice and I need a refund immediately',2
+Outline a lesson plan for teaching AI in education.,2
+Extract and structure the key facts from this passage: [a quarterly earnings report excerpt],2
+"Write a nuanced comparison of microservices vs monoliths for a technical audience, weighing trade-offs.",3
+"Analyze the trade-offs between microservices and monoliths, and recommend an approach for a Series A startup.",3
+Summarize this article in 3 bullet points: [a customer feedback transcript],2
+Identify the key stakeholders mentioned in this document: [a quarterly earnings report excerpt],2
+Summarize the key differences between SQL databases and NoSQL databases.,2
+"Categorize these items into food, electronics, or clothing: laptop, banana, t-shirt, headphones, jacket",2
+Extract and structure the key facts from this passage: [a customer feedback transcript],2
+What is 42 + 23?,1
+"Classify this email as spam or not spam: 'Hi, following up on our meeting yesterday.'",2
+"Given these constraints, design an optimal solution for high customer churn: [a quarterly earnings report excerpt]",3
+Synthesize insights from these conflicting reports and recommend a course of action: [a 500-word passage about renewable energy trends],3
+"Recommend a hiring strategy for a startup facing scaling infrastructure costs, and justify each choice.",3

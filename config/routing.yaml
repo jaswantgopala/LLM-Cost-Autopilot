@@ -1,0 +1,24 @@
+# Routing configuration — maps complexity tiers to models.
+# Edit this file to change routing behavior without touching code.
+
+routing:
+  tier_1:
+    name: "Simple"
+    description: "Reformatting, extraction, basic Q&A from provided context"
+    model_key: "gpt-oss-20b-groq"
+    fallback_model_key: "llama3-local"
+
+  tier_2:
+    name: "Moderate"
+    description: "Summarization, classification, structured analysis"
+    model_key: "gemini-flash"
+    fallback_model_key: "gpt-oss-20b-groq"
+
+  tier_3:
+    name: "Complex"
+    description: "Multi-step reasoning, creative generation, nuanced judgment"
+    model_key: "gpt-oss-120b-groq"
+    fallback_model_key: "gemini-flash"
+
+# If the primary model for a tier fails (error, timeout, rate limit),
+# the router falls back to fallback_model_key before giving up.

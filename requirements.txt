@@ -1,0 +1,13 @@
+groq
+google-genai
+python-dotenv
+pydantic
+httpx
+scikit-learn
+numpy
+pyyaml
+streamlit
+pandas
+plotly
+fastapi
+uvicorn
