@@ -109,7 +109,23 @@ by_model_df = pd.DataFrame(stats["by_model"])
 st.dataframe(by_model_df, use_container_width=True)
 
 # --- Row 5: Raw request log ---
+# --- Row 5: Raw request log ---
 st.markdown("---")
 st.subheader("📋 Recent Requests")
-display_cols = ["timestamp", "prompt", "predicted_tier", "routed_model_key", "cost_usd", "quality_score", "escalated"]
-st.dataframe(df[display_cols].head(50), use_container_width=True)
+
+recent = df.head(50).copy()
+recent["prompt_short"] = recent["prompt"].str.slice(0, 80)
+recent["answer_short"] = recent["response_text"].fillna("").str.slice(0, 120)
+
+display_cols = ["timestamp", "prompt_short", "answer_short", "predicted_tier",
+                "routed_model_key", "cost_usd", "quality_score", "escalated"]
+st.dataframe(recent[display_cols], use_container_width=True)
+
+st.subheader("🔍 Read a full answer")
+for _, row in recent.head(10).iterrows():
+    label = f"{row['timestamp']:%Y-%m-%d %H:%M} | tier {row['predicted_tier']} | {row['routed_model_key']}"
+    with st.expander(label):
+        st.markdown("**Prompt**")
+        st.write(row["prompt"])
+        st.markdown("**Answer**")
+        st.write(row["response_text"])

@@ -18,13 +18,13 @@ def get_router() -> Router:
     return _router
 
 
-def process_request(prompt: str, verify: bool = True) -> dict:
+def process_request(prompt: str, verify: bool = True, route_text: str | None = None) -> dict:
     """
     Full pipeline for handling one prompt.
     Returns a dict with the final response and all metadata.
     """
     router = get_router()
-    decision = router.route(prompt)
+    decision = router.route(route_text or prompt)
     model_config = decision["model_config"]
 
     response = send_request(prompt, model_config)
@@ -40,6 +40,8 @@ def process_request(prompt: str, verify: bool = True) -> dict:
         "escalated_model_key": None,
         "final_response_text": response.text,
         "final_cost_usd": response.cost_usd,
+        "input_tokens": response.input_tokens,
+        "output_tokens": response.output_tokens,
     }
 
     quality_score = None
